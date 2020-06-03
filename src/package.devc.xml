@@ -4,8 +4,6 @@
   <asx:values>
    <DEVC>
     <CTEXT>test push ticket workaround</CTEXT>
-    <TPCLASS>X</TPCLASS>
-    <PACKKIND>5</PACKKIND>
    </DEVC>
   </asx:values>
  </asx:abap>
