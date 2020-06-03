@@ -4,6 +4,7 @@
   <asx:values>
    <DEVC>
     <CTEXT>push a state with delete ddic object</CTEXT>
+    <PACKKIND>5</PACKKIND>
    </DEVC>
   </asx:values>
  </asx:abap>
