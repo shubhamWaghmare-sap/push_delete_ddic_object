@@ -13,7 +13,7 @@ ENDCLASS.
 
 CLASS zcl_demo_class IMPLEMENTATION.
   METHOD test.
-
+    ""
   ENDMETHOD.
 
 ENDCLASS.
